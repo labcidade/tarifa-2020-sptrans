@@ -9,6 +9,7 @@ SPTRANS - DADOS DO SISTEMA DE TRANSPORTE PÚBLICO
 
 ## Conteúdo
 São parte deste conjunto de dados:
+
     Balanço_SPTRANS_2003-2019.csv
     Tarifa e balanço SPTrans 2005-2019.pdf
 
@@ -18,7 +19,8 @@ Dados sobre balanço financeiro e outros indicadores do sistema de transporte p�
 Mineração e tabulação de dados no site da Secretaria Municipal de Transportes
 
 ## Finalidade
-Post no blog do LabCidade (http://www.labcidade.fau.usp.br/sem-justificativa-prefeitura-aumenta-a-tarifa-de-transporte/)
+Publicação de post no blog do LabCidade:
+- [Sem justificativa, prefeitura quer aumentar a tarifa de transporte](http://www.labcidade.fau.usp.br/sem-justificativa-prefeitura-aumenta-a-tarifa-de-transporte/)
 
 ## Dados externos
-- Secretaria Municipal de Transportes (https://www.prefeitura.sp.gov.br/cidade/secretarias/transportes/institucional/sptrans/acesso_a_informacao/index.php?p=245709)
+- [Secretaria Municipal de Transportes](https://www.prefeitura.sp.gov.br/cidade/secretarias/transportes/institucional/sptrans/acesso_a_informacao/index.php?p=245709)
