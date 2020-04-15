@@ -8,12 +8,12 @@ SPTRANS - DADOS DO SISTEMA DE TRANSPORTE PÚBLICO
 **Licença de compartilhamento:** CC Atribuição (CC BY 3.0 BR) (ver arquivo LICENÇA.txt)
 
 ## Conteúdo
+Dados sobre balanço financeiro e outros indicadores do sistema de transporte público do município de São Paulo.
+
 São parte deste conjunto de dados:
 
     Balanço_SPTRANS_2003-2019.csv
     Tarifa e balanço SPTrans 2005-2019.pdf
-
-Dados sobre balanço financeiro e outros indicadores do sistema de transporte público do município de São Paulo 
 
 ## Metodologia
 Mineração e tabulação de dados no site da Secretaria Municipal de Transportes
