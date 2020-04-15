@@ -1,4 +1,4 @@
-SPTRANS - DADOS DO SISTEMA DE TRANSPORTE PÚBLICO 
+SPTrans - Dados do sistema de transporte público
 ============
 *Dados e documentação produzidos pelo Laboratório Espaço Público e Direito à Cidade da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo - [LabCidade FAUUSP](http://www.labcidade.fau.usp.br/)*
 
