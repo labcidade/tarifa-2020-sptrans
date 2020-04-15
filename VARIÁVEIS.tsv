@@ -1,0 +1,27 @@
+Arquivo	Variável	Descrição
+Balanço_SPTRANS_2003-2019.csv	ANO	Ano de referência
+Balanço_SPTRANS_2003-2019.csv	MES	Mês de referência
+Balanço_SPTRANS_2003-2019.csv	DESPESAS	Despesas nominais
+Balanço_SPTRANS_2003-2019.csv	ARRECADACAO	Arrecadação nominal
+Balanço_SPTRANS_2003-2019.csv	SUBSIDIO	Subsídios nominais
+Balanço_SPTRANS_2003-2019.csv	MULTAS	Recursos de multas nominais
+Balanço_SPTRANS_2003-2019.csv	EMPRESTIMO	Empréstimos nominais
+Balanço_SPTRANS_2003-2019.csv	TRANSFERENCIA	Transferências de caixa nominais
+Balanço_SPTRANS_2003-2019.csv	BALANCO	Balanço nominal calculado
+Balanço_SPTRANS_2003-2019.csv	IN_IPCA	Número índice IPCA (IBGE)
+Balanço_SPTRANS_2003-2019.csv	C_REAL	Valor do real corrigido
+Balanço_SPTRANS_2003-2019.csv	C_DESPESAS	Despesas corrigidas
+Balanço_SPTRANS_2003-2019.csv	C_ARRECADACAO	Arrecadação corrigida
+Balanço_SPTRANS_2003-2019.csv	C_SUBSIDIO	Subsídios corrigidos
+Balanço_SPTRANS_2003-2019.csv	C_MULTAS	Multas corrigidas
+Balanço_SPTRANS_2003-2019.csv	C_EMPRESTIMO	Empréstimos corrigidos
+Balanço_SPTRANS_2003-2019.csv	C_TRANSFERENCIA	Transferências de caixa corrigidas
+Balanço_SPTRANS_2003-2019.csv	PAX	Passageiros transportados
+Balanço_SPTRANS_2003-2019.csv	IN_PAX	Índice de passageiros transportados (referência JAN/2003)
+Balanço_SPTRANS_2003-2019.csv	TARIFA	Tarifa nominal
+Balanço_SPTRANS_2003-2019.csv	C_TARIFA	Tarifa corrigida
+Balanço_SPTRANS_2003-2019.csv	IN_C_TARIFA	Índice da tarifa corrigida (referência JAN/2003)
+Balanço_SPTRANS_2003-2019.csv	SMSP	Salário mínimo em São Paulo
+Balanço_SPTRANS_2003-2019.csv	C_SMSP	Salário mínimo em São Paulo corrigido
+Balanço_SPTRANS_2003-2019.csv	IN_C_SMSP	Índice do salário mínimo em São Paulo corrigido
+Tarifa e balanço SPTrans 2005-2019.pdf		Arquivo com gráficos dos indicadores
